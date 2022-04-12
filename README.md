@@ -1,6 +1,7 @@
 # #BB6 Arduino State Machine Part 2
 ### Implementation of a Real World State Machine (simplified)  
 ![thumbnail](https://user-images.githubusercontent.com/20911308/162998422-c4a258a1-9c86-4bc4-8a83-be374a3e7487.jpg)  
+Link to video: https://youtu.be/TH__MdQD_GA  
 
 This is **PART TWO** of the Bacon Bytes series on a step-by-step guide on how we can move to a **State Machine on the Arduino** (or, indeed, any other microcontroller).
 

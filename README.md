@@ -8,7 +8,7 @@ This is **PART TWO** of the Bacon Bytes series on a step-by-step guide on how we
 To get the most of of *this video* ensure you have watched **PART ONE** first which covers the whole multi-tasking element of a useful State Machine that doesn't include any blocking code (such as use of the delay()☠statement).  
 Link: https://youtu.be/hwEo49yyU88  
 
-We briefly (ever so briefly) touch on theory but really concentrate on converting a **State Diagram** into actual Arduino-speak C++ code. It's far easir than you might think.
+We briefly (ever so briefly) touch on theory but really concentrate on converting a **State Diagram** into actual Arduino-speak C++ code. It's far easier than you might think.
 
 Moreover, it ensures your code reflects the State Diagram you draw, thus ensuring excellent robustness in your code.  
 

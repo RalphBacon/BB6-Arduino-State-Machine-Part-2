@@ -12,6 +12,8 @@ We briefly (ever so briefly) touch on theory but really concentrate on convertin
 
 Moreover, it ensures your code reflects the State Diagram you draw, thus ensuring excellent robustness in your code.  
 
+You know about **enum**s? What about **class enum**s? We cover that too, and why it makes for better, more robust code.
+
 If you really want some in-depth theory, Wikipedia has it covered:  
 https://en.wikipedia.org/wiki/Finite-state_machine  
 

@@ -14,6 +14,8 @@ Moreover, it ensures your code reflects the State Diagram you draw, thus ensurin
 
 You know about **enum**s? What about **class enum**s? We cover that too, and why it makes for better, more robust code.
 
+Perhaps in a future video we might even talk about Hierarchical State machines 😲  
+
 If you really want some in-depth theory, Wikipedia has it covered:  
 https://en.wikipedia.org/wiki/Finite-state_machine  
 
